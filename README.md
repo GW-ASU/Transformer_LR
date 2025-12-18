@@ -13,7 +13,7 @@ LSTM-RR.ipynb: Jupyter notebook for finetuning, training, and validation of a ba
 
 # Data
 
-data\_karst.mat: Inputs and target variables for training and validation, compiled for nine snow-dominated karst watersheds in the Western U.S. The first dimension represents each watershed in the following order:
+data\data_karst.mat: Inputs and target variables for training and validation, compiled for nine snow-dominated karst watersheds in the Western U.S. The first dimension represents each watershed in the following order:
 
 1. Little Bighorn River
 2. Salina Creek
@@ -25,7 +25,7 @@ data\_karst.mat: Inputs and target variables for training and validation, compil
 8. Red Butte Creek
 9. Blacksmith Fork
 
-data\_karst.mat: Inputs and target variables for training and validation, compiled for nine snow-dominated non-karst watersheds in the Western U.S. The first dimension represents each watershed in the following order:
+data\data_nonkarst.mat: Inputs and target variables for training and validation, compiled for nine snow-dominated non-karst watersheds in the Western U.S. The first dimension represents each watershed in the following order:
 
 1. Halfmoon Creek
 2. Black Gore Creek
