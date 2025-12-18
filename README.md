@@ -1,6 +1,6 @@
 # Transformer_LR
 
-This repository contains code and data for Choi et al. (under review).
+This repository contains code for Choi et al. (under review).
 
 Author: Seohye Choi
 Last modified: 12/18/2025
@@ -12,6 +12,8 @@ Transformer-RR.ipynb: Jupyter notebook for finetuning, training, validation, and
 LSTM-RR.ipynb: Jupyter notebook for finetuning, training, and validation of a baseline LSTM model, using datasets described below.  
 
 # Data
+
+Training and validation data are deposited at https://zenodo.org/records/17980723. 
 
 data\data_karst.mat: Inputs and target variables for training and validation, compiled for nine snow-dominated karst watersheds in the Western U.S. The first dimension represents each watershed in the following order:
 
